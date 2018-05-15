@@ -57,6 +57,10 @@ https://www.malwarearchaeology.com/
 
 http://adsecurity.org/
 
+http://www.hackingarticles.in/post-exploitation-windows-using-dir-command/
+
+
+
 
 
 
@@ -91,6 +95,15 @@ https://www.blackhat.com/docs/us-15/materials/us-15-MarquisBoire-Big-Game-Huntin
 
 http://contagiodump.blogspot.com/
 
+Useful links - 
+
+https://wigle.net/
+
+https://gchq.github.io/CyberChef/
+
+
+
+
 
 
 Forensics:
@@ -109,9 +122,16 @@ https://www.abatchy.com/archive.html
 
 https://highon.coffee/
 
+https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat_98.html?m=1
+
+
 
 
 AWS:
+
+https://github.com/aws-samples
+
+
 
 
 

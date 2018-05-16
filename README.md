@@ -191,6 +191,8 @@ RedTeam:
 
 https://github.com/Hack-with-Github/Awesome-Hacking
 
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+
 https://www.offensive-security.com/
 
 https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki

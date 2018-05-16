@@ -43,6 +43,23 @@ http://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.h
 
 BlueTeam:
 
+https://attack.mitre.org/wiki/Main_Page
+
+https://github.com/meirwah/awesome-incident-response
+
+https://www.malwarearchaeology.com/cheat-sheets/
+
+https://github.com/redcanaryco/atomic-red-team
+
+https://findingbad.blogspot.nl/
+
+
+
+
+
+
+
+
 Windows -
 
 http://windowsir.blogspot.com/
@@ -58,6 +75,10 @@ https://www.malwarearchaeology.com/
 http://adsecurity.org/
 
 http://www.hackingarticles.in/post-exploitation-windows-using-dir-command/
+
+http://blog.jpcert.or.jp/2016/01/windows-commands-abused-by-attackers.html
+
+
 
 
 
@@ -85,6 +106,8 @@ https://www.mac4n6.com/
 
 Malware - 
 
+https://github.com/rshipp/awesome-malware-analysis
+
 http://www.ccssforum.org/malware-certificates.php
 
 https://zeltser.com/mastering-4-stages-of-malware-analysis/
@@ -95,11 +118,19 @@ https://www.blackhat.com/docs/us-15/materials/us-15-MarquisBoire-Big-Game-Huntin
 
 http://contagiodump.blogspot.com/
 
+https://any.run/
+
+https://github.com/countercept/snake
+
+
+
 Useful links - 
 
 https://wigle.net/
 
 https://gchq.github.io/CyberChef/
+
+https://digital-forensics.sans.org/summit-archives/DFIR_Summit/Finding-Malware-Like-Iron-Man-Corey-Harrell.pdf
 
 
 
@@ -108,7 +139,19 @@ https://gchq.github.io/CyberChef/
 
 Forensics:
 
+http://aboutdfir.com/
+
 http://cheeky4n6monkey.blogspot.com/
+
+http://www.nirsoft.net/utils/
+
+https://github.com/dkovar/analyzeMFT
+
+https://tzworks.net/prototype_page.php?proto_id=5
+
+
+
+
 
 
 
@@ -122,7 +165,17 @@ https://www.abatchy.com/archive.html
 
 https://highon.coffee/
 
+http://www.hackingarticles.in/
+
 https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat_98.html?m=1
+
+https://github.com/Hack-with-Github/Awesome-Hacking
+
+https://github.com/vysec/RedTips
+
+
+
+
 
 
 
@@ -153,6 +206,8 @@ https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/r
 
 https://blogs.technet.microsoft.com/motiba/2018/04/09/invoke-adversary-simulating-adversary-operations/
 
+https://findingbad.blogspot.nl/2017/02/patterns-of-behavior.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3ByFlCNTrUSZC%2FF7%2FEnq6a6Q%3D%3D
+
 https://labs.nettitude.com/
 
 https://www.sans.org/reading-room/whitepapers/logging/logging-monitoring-detect-network-intrusions-compliance-violations-environment-33985
@@ -180,6 +235,10 @@ https://www.dfir.training/
 https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational#digital_forensics
 
 https://www.first.org/
+
+https://threatintel.eu/2016/12/30/my-favorite-dfir-presentations-for-2016/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BhWKVd4rhTpi3B5a4oMd7yw%3D%3D
+
+
 
 
 

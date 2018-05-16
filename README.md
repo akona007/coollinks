@@ -14,13 +14,7 @@ https://krebsonsecurity.com
 
 https://www.ultimatewindowssecurity.com/
 
-https://www.sans.org/reading-room
-
 https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
-
-https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/
-
-https://researchcenter.paloaltonetworks.com/unit42/
 
 https://packetstormsecurity.com/
 
@@ -29,11 +23,6 @@ https://www.securityfocus.com/
 http://www.securitywizardry.com/radar.htm
 
 https://cardnotpresent.com/
-
-
-
-
-
 
 
 
@@ -48,6 +37,8 @@ https://www.defcon.org/html/links/dc-ctf.html
 https://csaw.engineering.nyu.edu/
 
 http://www.malware-traffic-analysis.net/
+
+https://github.com/ctfs/
 
 http://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html
 
@@ -134,6 +125,8 @@ http://blog.malwaremustdie.org/
 
 https://github.com/rshipp/awesome-malware-analysis
 
+https://github.com/wtsxDev/Malware-Analysis
+
 https://securedorg.github.io/
 
 http://www.ccssforum.org/malware-certificates.php
@@ -198,6 +191,8 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 
 https://www.offensive-security.com/
 
+https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+
 https://github.com/HSIS007/Useful_Websites_For_Pentester#webapplication-pentesting-websites
 
 https://www.abatchy.com/archive.html
@@ -206,19 +201,19 @@ https://highon.coffee/
 
 http://www.hackingarticles.in/
 
+https://github.com/joe-shenouda/awesome-cyber-skills
+
+https://github.com/danielmiessler/SecLists
+
 https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat_98.html?m=1
+
+https://github.com/1N3/IntruderPayloads
 
 https://github.com/Hack-with-Github/Awesome-Hacking
 
 https://github.com/vysec/RedTips
 
 http://www.itsecgames.com/
-
-
-
-
-
-
 
 
 AWS:
@@ -229,6 +224,11 @@ https://github.com/kromtech/s3-inspector
 
 Logging,Monitoring adn alerting https://www.youtube.com/watch?v=SZVbSsRNC74
 
+https://github.com/jordanpotti/AWSBucketDump
+
+https://github.com/ThreatResponse/aws_ir
+
+
 
 
 
@@ -237,6 +237,8 @@ Blogs:
 https://www.fireeye.com/blog.html
 
 https://www.blackhillsinfosec.com/blog/
+
+https://www.trustedsec.com/category/articles/
 
 http://aboutdfir.com/incident-response-a-to-z/
 
@@ -249,6 +251,8 @@ https://holisticinfosec.blogspot.com/
 https://www.sans.org/security-awareness-training/blog
 
 https://digital-forensics.sans.org/blog
+
+https://www.sans.org/reading-room
 
 https://www.anomali.com/blog/
 

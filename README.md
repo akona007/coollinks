@@ -218,6 +218,8 @@ http://www.itsecgames.com/
 
 AWS:
 
+https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
+
 https://github.com/aws-samples
 
 https://github.com/kromtech/s3-inspector

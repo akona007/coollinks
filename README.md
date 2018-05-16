@@ -50,6 +50,8 @@ BlueTeam:
 
 https://attack.mitre.org/wiki/Main_Page
 
+https://github.com/sans-blue-team
+
 https://github.com/shrekts/awesome-csirt
 
 https://github.com/meirwah/awesome-incident-response
@@ -215,6 +217,12 @@ https://github.com/vysec/RedTips
 
 http://www.itsecgames.com/
 
+https://github.com/ustayready/CredKing
+
+https://github.com/gyoisamurai/GyoiThon
+
+https://github.com/MooseDojo/apt2
+
 
 AWS:
 
@@ -247,6 +255,8 @@ http://aboutdfir.com/incident-response-a-to-z/
 https://redcanary.com/blog/
 
 https://www.incidentresponse.com/
+
+https://www.splunk.com/blog/homepage.html
 
 https://holisticinfosec.blogspot.com/
 

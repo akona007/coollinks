@@ -1,6 +1,6 @@
 # CoolLinks
 
-SecurityNews:
+# SecurityNews:
 
 https://thehackernews.com/
 
@@ -26,7 +26,7 @@ https://cardnotpresent.com/
 
 
 
-Security Chanlleges/CTF:
+# Security Chanlleges/CTF:
 
 https://www.root-me.org/?lang=en
 
@@ -46,7 +46,7 @@ http://www.netresec.com/?page=pcapfiles
 
 
 
-BlueTeam:
+# BlueTeam:
 
 https://attack.mitre.org/wiki/Main_Page
 
@@ -70,7 +70,7 @@ http://www.ncsl.org/research/telecommunications-and-information-technology/secur
 
 
 
-Windows -
+## Windows -
 
 http://windowsir.blogspot.com/
 
@@ -101,7 +101,7 @@ https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5a3187b4419202
 https://www.trimarcsecurity.com/single-post/2018/05/06/Trimarc-Research-Detecting-Password-Spraying-with-Security-Event-Auditing
 
 
-Linux - 
+## Linux - 
 
 http://www.pentesteracademy.com/course?id=20
 
@@ -116,12 +116,12 @@ https://www.forensicswiki.org/wiki/Linux
 https://www.sans.org/reading-room/whitepapers/forensics/dead-linux-machines-tales-34227
 
 
-Mac - 
+## Mac - 
 
 https://www.mac4n6.com/
 
 
-Malware - 
+## Malware - 
 
 http://blog.malwaremustdie.org/
 
@@ -153,7 +153,7 @@ https://www.malwaredomainlist.com/
 
 
 
-Useful links - 
+## Useful links - 
 
 https://wigle.net/
 
@@ -169,7 +169,7 @@ https://mxtoolbox.com/
 
 
 
-Forensics:
+## Forensics:
 
 http://aboutdfir.com/
 
@@ -187,7 +187,7 @@ https://www.tzworks.net/prototypes.php
 
 
 
-RedTeam:
+# RedTeam:
 
 https://github.com/Hack-with-Github/Awesome-Hacking
 
@@ -226,7 +226,7 @@ https://github.com/gyoisamurai/GyoiThon
 https://github.com/MooseDojo/apt2
 
 
-AWS:
+# AWS:
 
 https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
 
@@ -241,7 +241,7 @@ https://github.com/jordanpotti/AWSBucketDump
 https://github.com/ThreatResponse/aws_ir
 
 
-Conferences/Meetups:
+# Conferences/Meetups:
 
 https://www.defcon.org/
 
@@ -257,7 +257,7 @@ https://www.meetup.com/Bay-Area-OWASP/?_cookie-check=zk66hJF6rLC0drEk
 
 
 
-Blogs:
+# Blogs:
 
 https://www.fireeye.com/blog.html
 
@@ -304,7 +304,7 @@ http://www.honeynet.org/
 https://www.threatresponse.cloud/
 
 
-Training:
+# Training:
 
 https://www.dfir.training/
 
@@ -320,7 +320,7 @@ https://threatintel.eu/2016/12/30/my-favorite-dfir-presentations-for-2016/?lipi=
 
 
 
-Books:
+# Books:
 
 
 

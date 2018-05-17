@@ -241,6 +241,19 @@ https://github.com/jordanpotti/AWSBucketDump
 https://github.com/ThreatResponse/aws_ir
 
 
+Conferences/Meetups:
+
+https://www.defcon.org/
+
+http://www.blackhat.com/
+
+https://bsidessf.org/
+
+https://www.si1isec.org/
+
+https://www.meetup.com/SF-Bay-Area-DFIR/
+
+https://www.meetup.com/Bay-Area-OWASP/?_cookie-check=zk66hJF6rLC0drEk
 
 
 
@@ -291,24 +304,6 @@ http://www.honeynet.org/
 https://www.threatresponse.cloud/
 
 
-
-
-
-Conferences/Meetups:
-
-https://www.defcon.org/
-
-http://www.blackhat.com/
-
-https://bsidessf.org/
-
-https://www.si1isec.org/
-
-https://www.meetup.com/SF-Bay-Area-DFIR/
-
-https://www.meetup.com/Bay-Area-OWASP/?_cookie-check=zk66hJF6rLC0drEk
-
-
 Training:
 
 https://www.dfir.training/
@@ -322,8 +317,6 @@ https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/onlin
 https://www.first.org/
 
 https://threatintel.eu/2016/12/30/my-favorite-dfir-presentations-for-2016/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BhWKVd4rhTpi3B5a4oMd7yw%3D%3D
-
-
 
 
 

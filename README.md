@@ -16,6 +16,8 @@ https://www.ultimatewindowssecurity.com/
 
 https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
 
+https://www.theregister.co.uk/security/
+
 https://packetstormsecurity.com/
 
 https://www.securityfocus.com/

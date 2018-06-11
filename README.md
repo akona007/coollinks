@@ -26,6 +26,8 @@ http://www.securitywizardry.com/radar.htm
 
 https://cardnotpresent.com/
 
+https://github.com/santosomar/who_and_what_to_follow
+
 
 
 # Security Chanlleges/CTF:

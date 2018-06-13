@@ -173,6 +173,12 @@ https://www.exploit-db.com/google-hacking-database/
 
 https://mxtoolbox.com/
 
+https://www.virustotal.com
+
+https://urlquery.net
+
+http://www.urlvoid.com
+
 http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 
 

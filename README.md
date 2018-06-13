@@ -24,6 +24,8 @@ https://www.securityfocus.com/
 
 http://www.securitywizardry.com/radar.htm
 
+https://www.wired.com/category/security/
+
 https://cardnotpresent.com/
 
 https://github.com/santosomar/who_and_what_to_follow
@@ -157,7 +159,7 @@ https://www.malwaredomainlist.com/
 
 
 
-## Useful links - 
+## Miscellaneous - 
 
 https://wigle.net/
 
@@ -170,6 +172,8 @@ https://exchange.xforce.ibmcloud.com/
 https://www.exploit-db.com/google-hacking-database/
 
 https://mxtoolbox.com/
+
+http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 
 
 

@@ -197,8 +197,6 @@ http://www.nirsoft.net/utils/
 
 https://github.com/dkovar/analyzeMFT
 
-https://tzworks.net/prototype_page.php?proto_id=5
-
 https://www.tzworks.net/prototypes.php
 
 

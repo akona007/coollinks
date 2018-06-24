@@ -239,6 +239,8 @@ https://github.com/gyoisamurai/GyoiThon
 
 https://github.com/MooseDojo/apt2
 
+https://github.com/leebaird/discover
+
 
 # AWS:
 

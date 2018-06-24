@@ -241,6 +241,8 @@ https://github.com/MooseDojo/apt2
 
 https://github.com/leebaird/discover
 
+https://github.com/infosecn1nja/Red-Teaming-Toolkit
+
 
 # AWS:
 
